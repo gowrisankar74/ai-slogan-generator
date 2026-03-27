@@ -42,7 +42,7 @@ bedrock_client = boto3.client(
 # Streamlit Styling
 # -----------------------------
 st.set_page_config(
-    page_title="AI Slogan Generator",
+    page_title="GowriDevOPs Sample Project",
     layout="centered",
 )
 
